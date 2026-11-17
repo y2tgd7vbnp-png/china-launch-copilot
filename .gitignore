@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+
+# 临时文件
+*.log
+/tmp/
+
+# 编辑器
+.vscode/
+.idea/
+
+# 本机隐私（不公开个人路径信息）
+.env
